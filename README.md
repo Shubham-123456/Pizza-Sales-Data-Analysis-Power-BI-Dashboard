@@ -38,6 +38,6 @@ The main objectives of the Pizza Sales Dashboard are to:
 
 ## Conclusion
 
-•	Analyzed pizza sales data using SQL to extract key insights on customer preferences, sales trends, and peak demand periods, boosting targeted marketing effectiveness by 20%.
-•	Developed an interactive Power BI dashboard integrating SQL queries, enabling real-time visualization of sales metrics for enhanced decision-making.
-•	Identified top and worst performing menu items through data analysis, leading to a 15% increase in revenue via improved upselling strategies.
+1. Analyzed pizza sales data using SQL to extract key insights on customer preferences, sales trends, and peak demand periods, boosting targeted marketing effectiveness by 20%.
+2. Developed an interactive Power BI dashboard integrating SQL queries, enabling real-time visualization of sales metrics for enhanced decision-making.
+3. Identified top and worst performing menu items through data analysis, leading to a 15% increase in revenue via improved upselling strategies.
